@@ -19,7 +19,7 @@ export default function SumCalculator(){
         value={input}
         onChange={(e) => setInput(e.target.value)}
       />
-      <p>{sum}</p>
+      <p>Sum: {sum}</p>
     </div>
   )
   
