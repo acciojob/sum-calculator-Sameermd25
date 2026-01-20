@@ -6,7 +6,7 @@ import SumCalculator from './SumCalculator'
 const App = () => {
   return (
     <div>
-        <h3>Sum Calculator</h3>
+        <h1>Sum Calculator</h1>
         <SumCalculator/>
     </div>
   )
